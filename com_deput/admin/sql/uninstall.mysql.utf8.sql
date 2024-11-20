@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS `#__deputy`;
+DROP TABLE IF EXISTS `#__okrug`;
